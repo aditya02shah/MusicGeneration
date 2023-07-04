@@ -20,7 +20,6 @@ LSTM model can generate music that is both pleasing to the ear and follows a coh
 
 # Model Architecture
 The model architecture is based on a recurrent neural network (RNN) with LSTM cells.
-
  The LSTM cells allow the model to capture long-term dependencies and generate coherent and melodic musical sequences.
 
 
