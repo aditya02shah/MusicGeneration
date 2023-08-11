@@ -48,7 +48,7 @@ To utilize the Dockerized project,
 You can also pull a pre-built Docker image directly from Docker Hub:[ Music-Generation-Model](https://hub.docker.com/repository/docker/aditya02shah/musicgenerationmodel/general)
 
 # Deployment 
-The model has also been deployed on [Railway](https://musicgeneration-production.up.railway.app/)         
+The model has also been deployed on Railway.         
 
 To generate music in textual format,you can use the following command:      https://musicgeneration-production.up.railway.app/api/generatetext?start_string={}.   
 
